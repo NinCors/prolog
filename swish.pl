@@ -278,7 +278,7 @@ start :-
 	start.
 
 game_over :-
-	slain(wumpus),
+	slain(Something),
 	write('Congratulations!  You\'ve won the game!').
 
 
